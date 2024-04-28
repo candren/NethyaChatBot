@@ -16,7 +16,7 @@ MONGO_URL = os.environ.get("MONGO_URL", None)
 bot = Client(
     "LogicBot" ,
     api_id = API_ID,
-    api_hash = API_HASH ,
+    api_hash = API_2fef2014-607d-4ae2-b15e-4a4f25a4a5d1HASH ,
     bot_token = BOT_TOKEN
 )
 
